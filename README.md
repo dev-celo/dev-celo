@@ -4,7 +4,8 @@ Hi 👋 My name is Marcelo Henrique
 Whats up? I'm a Developer Web
 -----------------------------
 
-I've been learning to code for 3 years, started for lenguage C where learn the programming base! Since then, i haven't stopped learning... I studied: HTML CSS BOOTSTRAP JAVASCRIPT PHP JAVA SQL I love back-end but now i'am started to really like front-end. I have 22 years, i'm like play soccer, gym, swimming... in short I love sport and animals
+I've been learning to code for 3 years, started for lenguage C where learn the programming base! Since then, i haven't stopped learning... I studied in the front - end: HTML, CSS, BOOTSTRAP, JAVASCRIPT. In the back - end: PHP and JAVA(POO). I have interest for understand more about Database (SQL).
+I love back-end but now i'am started to really like front-end. I have 22 years, i'm like play soccer, gym, swimming... in short I love sport and animals & technology <<3.
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [marcelohenrique.backend@gmail.com](mailto:marcelohenrique.backend@gmail.com)
